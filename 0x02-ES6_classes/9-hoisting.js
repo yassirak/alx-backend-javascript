@@ -55,4 +55,4 @@ const listOfStudents = [
   new StudentHolberton('Jason', 'Sandler', class2019),
 ];
 
-export default li
+export default listOfStudents;
